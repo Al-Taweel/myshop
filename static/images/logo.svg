@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="190.51014"
+     inkscape:cy="912.44012"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3857">
+      <rect
+         ry="4.4099474"
+         y="26.908243"
+         x="36.277145"
+         height="24.588797"
+         width="25.390608"
+         id="rect3757"
+         style="fill:#ffdd55;stroke-width:0.26458332" />
+      <g
+         transform="translate(13.960141,1.1814377)"
+         id="g3845">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:11.34205055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28355125"
+           x="26.694702"
+           y="37.545273"
+           id="text12"
+           transform="scale(1.0716898,0.93310582)"><tspan
+             sodipodi:role="line"
+             id="tspan10"
+             x="26.694702"
+             y="37.545273"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alfredo;-inkscape-font-specification:'Alfredo Bold';fill:#ff0000;stroke-width:0.28355125">hop</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:17.52580833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43814522"
+           x="39.187546"
+           y="29.101078"
+           id="text12-7"
+           transform="scale(0.6038713,1.655982)"><tspan
+             sodipodi:role="line"
+             id="tspan10-9"
+             x="39.187546"
+             y="29.101078"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alfredo;-inkscape-font-specification:'Alfredo Bold';fill:#ff0000;stroke-width:0.43814522">S</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.98734331px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17468359"
+           x="31.603275"
+           y="39.44236"
+           id="text3737"
+           transform="scale(0.97030574,1.030603)"><tspan
+             sodipodi:role="line"
+             id="tspan3735"
+             x="31.603275"
+             y="39.44236"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Alfredo;-inkscape-font-specification:Alfredo;stroke-width:0.17468359">till u</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.02435684px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa00d4;fill-opacity:1;stroke:none;stroke-width:0.25060892"
+           x="32.476158"
+           y="44.090107"
+           id="text12-4"
+           transform="scale(0.94718336,1.0557618)"><tspan
+             sodipodi:role="line"
+             id="tspan10-8"
+             x="32.476158"
+             y="44.090107"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alfredo;-inkscape-font-specification:'Alfredo Bold';fill:#aa00d4;stroke-width:0.25060892">drop</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
